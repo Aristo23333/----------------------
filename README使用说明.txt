@@ -1,0 +1,8 @@
+项目中
+data为音频数据
+picture保存了全部的波形结果
+morefreqs.m为对空弦音的处理
+mianban.m为对面板的处理，需要导入share1,mat或者workspace1.mat
+diban.m为对底板的处理,需要导入share1,mat或者workspace1.mat
+freqc.m为计算频域特征
+cosim为最后的余弦相似度计算，需要导入share.mat
